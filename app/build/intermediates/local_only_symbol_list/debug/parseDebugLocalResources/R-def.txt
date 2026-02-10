@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string back
+string baton_moloch
+string create_character
+string generate_traits
+string roll_dice
+string start_boot
+string start_game
+string what_to_do
+style Theme.Eloth

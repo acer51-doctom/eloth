@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eloth</string>
+    <string name="start_boot">DÉMARRER</string>
+    <string name="start_game">Commencer !</string>
+    <string name="baton_moloch">Bâton de Moloch</string>
+    <string name="create_character">Créer son personnage</string>
+    <string name="what_to_do">Que souhaitez-vous faire ?</string>
+    <string name="roll_dice">Lancer le dé</string>
+    <string name="generate_traits">Générer les Traits</string>
+    <string name="back">Retour</string>
+</resources>
